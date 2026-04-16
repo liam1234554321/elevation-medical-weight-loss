@@ -15,8 +15,8 @@ export default function Home() {
       {/* ===== SECTION 1: HERO ===== */}
       <section className="relative w-full h-screen min-h-[600px] flex items-center justify-center">
         <Image
-          src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1920&q=80"
-          alt="Mountain landscape"
+          src="/images/Pittsburgh Scenic.webp"
+          alt="Pittsburgh skyline at night with bridges and river"
           fill
           className="object-cover"
           priority

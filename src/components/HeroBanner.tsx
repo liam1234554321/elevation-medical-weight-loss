@@ -9,8 +9,8 @@ export default function HeroBanner({ title, subtitle }: HeroBannerProps) {
   return (
     <section className="relative w-full h-[60vh] min-h-[400px] flex items-center justify-center">
       <Image
-        src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1600&q=80"
-        alt="Mountain landscape"
+        src="/images/Pittsburgh Scenic.webp"
+        alt="Pittsburgh skyline at night with bridges and river"
         fill
         className="object-cover"
         priority

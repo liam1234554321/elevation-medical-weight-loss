@@ -5,8 +5,8 @@ export default function CTABanner() {
   return (
     <section className="relative w-full py-24 px-4">
       <Image
-        src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1600&q=80"
-        alt="Nature landscape"
+        src="/images/Pittsburgh Scenic.webp"
+        alt="Pittsburgh skyline at night with bridges and river"
         fill
         className="object-cover"
       />
